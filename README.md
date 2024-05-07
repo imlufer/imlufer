@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Actualmente estoy trabajando en mis Habilidades.<br>🌱 Actualmente estoy aprendiendo más sobre el desarrollo web Fullstack.<br>💬 Pregúntame sobre cualquier tema relacionado con la tecnología.<br>📫 Cómo contactarme: Correo electrónico - fernando.yarlequeg@gmail.com<br>⚡ Frase motivadora: Cambiando el mundo, una cadena de codigo a la vez.
+🔭 Actualmente estoy trabajando en mis Habilidades.<br>🌱 Actualmente estoy aprendiendo más sobre el desarrollo web Fullstack.<br>💬 Pregúntame sobre cualquier tema relacionado con la tecnología.<br>📫 Cómo contactarme: Correo electrónico - developerlufer@gmail.com<br>⚡ Frase motivadora: Cambiando el mundo, una cadena de codigo a la vez.
 
 
 ## 🌐 Socials:
